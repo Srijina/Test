@@ -1,0 +1,1 @@
+{"version":3,"sources":["CalcStyle.css"],"names":[],"mappings":"AAAA,aAEI,SACA,UACA,uBAAuB","file":"static/css/main.9bc3b4e8.css","sourcesContent":[".Buttonstyle\r\n{\r\n    width:40;\r\n    height:40;\r\n    background-color:\"Blue\"\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/CalcStyle.css"],"sourceRoot":""}
